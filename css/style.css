@@ -36,7 +36,7 @@ body {
 
 .nav-links a {
     text-decoration: none;
-    background: -webkit-linear-gradient(rgb(0, 255, 0), rgb(0, 255, 255));
+    background: -webkit-linear-gradient(rgb(0, 255, 255),rgb(0, 255, 0));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 10px 30px;
@@ -78,17 +78,4 @@ body {
     max-width: 100%;
     height: auto;
     
-}
-
-.home-name {
-    color: #fff;
-    font-size: 120px;
-}
-
-h1 {
-    font-size: 72px;
-    background: -webkit-linear-gradient(rgb(0, 255, 0), rgb(0, 255, 255));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-align: center;
 }
